@@ -1,0 +1,9 @@
+
+1 Passo <npm install -g angular-cli>
+2 Passo <ng -v>
+3 Passo <ng new 'NOME-DO-PROJETO'>
+4 Passo <ng serve>
+5 Passo <http://localhost:4200>
+6 Passo <ng g component 'painel-de-login'>
+7 Passo <ng g class 'exemplos/shared/exemplo'>
+8 Passo <ng g component 'exemplos/formulario'>
